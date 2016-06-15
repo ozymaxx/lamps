@@ -1,4 +1,4 @@
-# lamps
+# LAMPS
 LAMPS game on the web ;)
 Check it out -> http://ozymaxx.github.io/lamps
 
